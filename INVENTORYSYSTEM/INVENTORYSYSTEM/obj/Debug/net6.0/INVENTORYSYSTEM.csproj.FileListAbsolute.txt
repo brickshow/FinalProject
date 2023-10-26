@@ -1,0 +1,14 @@
+C:\Users\Brickshow\Desktop\Inventory\INVENTORYSYSTEM\INVENTORYSYSTEM\obj\Debug\net6.0\INVENTORYSYSTEM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brickshow\Desktop\Inventory\INVENTORYSYSTEM\INVENTORYSYSTEM\obj\Debug\net6.0\INVENTORYSYSTEM.AssemblyInfoInputs.cache
+C:\Users\Brickshow\Desktop\Inventory\INVENTORYSYSTEM\INVENTORYSYSTEM\obj\Debug\net6.0\INVENTORYSYSTEM.AssemblyInfo.cs
+C:\Users\Brickshow\Desktop\Inventory\INVENTORYSYSTEM\INVENTORYSYSTEM\obj\Debug\net6.0\INVENTORYSYSTEM.csproj.CoreCompileInputs.cache
+C:\Users\Brickshow\Desktop\Inventory\INVENTORYSYSTEM\INVENTORYSYSTEM\bin\Debug\net6.0\INVENTORYSYSTEM.exe
+C:\Users\Brickshow\Desktop\Inventory\INVENTORYSYSTEM\INVENTORYSYSTEM\bin\Debug\net6.0\INVENTORYSYSTEM.deps.json
+C:\Users\Brickshow\Desktop\Inventory\INVENTORYSYSTEM\INVENTORYSYSTEM\bin\Debug\net6.0\INVENTORYSYSTEM.runtimeconfig.json
+C:\Users\Brickshow\Desktop\Inventory\INVENTORYSYSTEM\INVENTORYSYSTEM\bin\Debug\net6.0\INVENTORYSYSTEM.dll
+C:\Users\Brickshow\Desktop\Inventory\INVENTORYSYSTEM\INVENTORYSYSTEM\bin\Debug\net6.0\INVENTORYSYSTEM.pdb
+C:\Users\Brickshow\Desktop\Inventory\INVENTORYSYSTEM\INVENTORYSYSTEM\obj\Debug\net6.0\INVENTORYSYSTEM.dll
+C:\Users\Brickshow\Desktop\Inventory\INVENTORYSYSTEM\INVENTORYSYSTEM\obj\Debug\net6.0\refint\INVENTORYSYSTEM.dll
+C:\Users\Brickshow\Desktop\Inventory\INVENTORYSYSTEM\INVENTORYSYSTEM\obj\Debug\net6.0\INVENTORYSYSTEM.pdb
+C:\Users\Brickshow\Desktop\Inventory\INVENTORYSYSTEM\INVENTORYSYSTEM\obj\Debug\net6.0\INVENTORYSYSTEM.genruntimeconfig.cache
+C:\Users\Brickshow\Desktop\Inventory\INVENTORYSYSTEM\INVENTORYSYSTEM\obj\Debug\net6.0\ref\INVENTORYSYSTEM.dll
